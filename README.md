@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @inaktivit
 - 👀 German Male Nurse with Icu expiernce looking to become an it-professional
-- 🌱 I’m currently learning ... to code htm l together with chat gpt to make webbsite where i can publish artworks 
+- 🌱 I’m currently learning ... to code html together with chat gpt to make website where i can publish artworks 
 - 💞️ I’m looking to collaborate on ... i dont think im helping at this point xD 
-- 📫 How to reach me ... u can dm me here rigth ? 
+- 📫 How to reach me ... u can dm me here right ? 
 - ⚡ Fun fact: ... i had fun but i hate fun 
 
 <!---
